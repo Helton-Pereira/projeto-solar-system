@@ -1,11 +1,11 @@
 .App {
-  background-image: url('./images/background.png');
   align-items: center;
+  background-image: url('./images/background.png');
   color: white;
-  text-align: center;
   display: flex;
   flex-direction: column;
   justify-content: center;
+  text-align: center;
 }
 
 h1 {
@@ -34,14 +34,14 @@ h2 {
   border: solid 2px white;
   border-radius: 5px;
   display: grid;
-  padding: 0 150px;
   margin-top: 20px;
+  padding: 0 150px;
   place-items: center;
 }
 
 .mission-name {
-  font-size: 20px;
-  font-style: oblique;
   border-bottom: solid 1px white;
   border-width: initial;
+  font-size: 20px;
+  font-style: oblique;
 }
