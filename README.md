@@ -1,10 +1,1 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+O projeto Solar System foi uma etapa avaliativa do módulo de Front-end do curso de programação e desenvolvimento web da Trybe. Ao utilizar a aplicação o usuário consegue visualizar planetas do sistema solar e informações de missões espaciais em cards
